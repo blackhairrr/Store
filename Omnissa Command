@@ -1,3 +1,11 @@
 Omnissa Command
 .\Support\openssl\win64_vc140\bin\openssl.exe s_client -connect glrfhcs01.gamudaland.gamuda.berhad:443
 Execute the command '.\Support\scripts\installRootCa.bat -ca "<root-ca-file>" -trustStore ".\Virtual App Service\conf\certs\cacerts" -trustStorePwdFile ".\Virtual App Service\conf\certs\cakeystore.pass"'
+
+
+================================================================
+NetBird
+
+
+curl -fsSL https://pkgs.netbird.io/install.sh | sh
+netbird up
