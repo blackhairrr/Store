@@ -1,0 +1,46 @@
+﻿Name,State,Status,Host,IP Address,DNS Name
+DC-01_pmucgi.lab,Powered On,Normal,192.168.204.19,"192.168.204.22, fe80::12a:e4a8:9c06:bfe2",GLRFDC01.pmucgi.lab
+FP-01,Powered Off,Normal,192.168.204.19,,
+FP-02,Powered Off,Normal,192.168.204.19,,
+FP-03,Powered Off,Normal,192.168.204.18,,
+FP-04,Powered On,Normal,192.168.204.18,192.168.204.169,FP-04
+HCS-01,Powered On,Normal,192.168.204.18,"192.168.204.24, fe80::e217:8079:5319:59bd",GLRFHCS01.gamudaland.gamuda.berhad
+HCS-01-Backup,Powered Off,Normal,192.168.204.18,,
+HCS-01_pmucgi.lab,Powered Off,Normal,192.168.204.19,,GLRFHCS02.pmucgi.lab
+HCS-test01,Powered Off,Normal,192.168.204.19,,
+HDB-01,Powered On,Normal,192.168.204.19,"192.168.204.23, fe80::8957:9f9c:a000:40cc",GLRFHDB01.gamudaland.gamuda.berhad
+rdsh-01,Powered Off,Normal,192.168.204.19,,rdsh01.pmucgi.lab
+RM-01,Powered On,Normal,192.168.204.18,192.168.204.26,GLRFRM01.gamudaland.gamuda.berhad
+support-01,Powered Off,Normal,192.168.204.18,"192.168.204.169, fe80::f32:2225:e529:a044",GLRFTECH01.pmucgi.lab
+support-02,Powered Off,Normal,192.168.204.19,,
+TP_vws,Powered Off,Normal,192.168.204.19,,GLRFVWS01.gamudaland.gamuda.berhad
+TP_vWS_GPU,Powered Off,Normal,192.168.204.19,,
+TP_vWS_NoGPU,Powered Off,Normal,192.168.204.19,192.168.204.250,DESKTOP-EHQS21C
+UAG-01,Powered On,Normal,192.168.204.18,192.168.204.25,GLRFUAG01
+UAG-01_internal,Powered Off,Normal,192.168.204.19,,GLRFUAG01
+UAG-02_external,Powered Off,Normal,192.168.204.19,192.168.204.25,GLRFUAG01
+vCLS-d4052812-ca2e-422c-bd77-ac731b627cb5,Powered On,Normal,192.168.204.18,,None
+vCLS-d59f68c7-d383-4e2c-839c-058a97aa61a5,Powered On,Normal,192.168.204.19,,None
+VDI_vCenter-01,Powered On,Normal,192.168.204.19,192.168.204.21,localhost
+vWS test,Powered Off,Normal,192.168.204.18,,GLRFVWS01.gamudaland.gamuda.berhad
+WOA-01,Powered Off,Normal,192.168.204.19,,glrfwoa01.gamudaland.gamuda.berhad
+WS-171,Powered On,Normal,192.168.204.19,"192.168.204.171, 169.254.49.194",glrfvws-01.gamudaland.gamuda.berhad
+WS-172,Powered On,Normal,192.168.204.19,"192.168.204.172, 169.254.33.23",glrfvws-02.gamudaland.gamuda.berhad
+WS-173,Powered On,Normal,192.168.204.18,"192.168.204.173, 169.254.117.162",glrfvws-03.gamudaland.gamuda.berhad
+WS-174,Powered On,Normal,192.168.204.18,"192.168.204.174, 169.254.134.43",glrfvws-04.gamudaland.gamuda.berhad
+WS-175,Powered On,Normal,192.168.204.18,"192.168.204.175, 169.254.178.184",glrfvws-05.gamudaland.gamuda.berhad
+WS-176,Powered On,Normal,192.168.204.19,"192.168.204.176, 169.254.236.186",glrfvws-06.gamudaland.gamuda.berhad
+WS-177,Powered On,Normal,192.168.204.19,"192.168.204.177, 169.254.165.181",glrfvws-07.gamudaland.gamuda.berhad
+WS-178,Powered On,Normal,192.168.204.19,"192.168.204.178, 169.254.188.63",glrfvws-08.gamudaland.gamuda.berhad
+WS-179,Powered On,Normal,192.168.204.18,"192.168.204.179, 169.254.54.173",glrfvws-09.gamudaland.gamuda.berhad
+WS-180,Powered On,Normal,192.168.204.19,"192.168.204.180, 169.254.235.48",glrfvws-10.gamudaland.gamuda.berhad
+WS-181,Powered On,Normal,192.168.204.19,"192.168.204.181, 169.254.8.113",glrfvws-11.gamudaland.gamuda.berhad
+WS-182,Powered On,Normal,192.168.204.18,"192.168.204.182, 169.254.210.197",glrfvws-12.gamudaland.gamuda.berhad
+WS-183,Powered On,Normal,192.168.204.18,"192.168.204.183, 169.254.99.251",glrfvws-13.gamudaland.gamuda.berhad
+WS-184,Powered On,Normal,192.168.204.19,"192.168.204.184, 169.254.223.142",glrfvws-14.gamudaland.gamuda.berhad
+WS-185,Powered On,Normal,192.168.204.18,"192.168.204.185, 169.254.201.235",glrfvws-15.gamudaland.gamuda.berhad
+WS-186,Powered On,Normal,192.168.204.18,"192.168.204.186, 169.254.195.70",glrfvws-16.gamudaland.gamuda.berhad
+WS-187,Powered On,Normal,192.168.204.19,"192.168.204.187, 169.254.52.13",glrfvws-17.gamudaland.gamuda.berhad
+WS-188,Powered On,Normal,192.168.204.18,"192.168.204.188, 169.254.251.164",glrfvws-18.gamudaland.gamuda.berhad
+WS-189,Powered On,Normal,192.168.204.19,"192.168.204.189, 169.254.245.204",glrfvws-19.gamudaland.gamuda.berhad
+WS-190,Powered On,Normal,192.168.204.18,"192.168.204.190, 169.254.54.72",glrfvws-20.gamudaland.gamuda.berhad
