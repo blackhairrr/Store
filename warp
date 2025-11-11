@@ -1,0 +1,15 @@
+curl https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --yes --dearmor --output /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg
+
+echo "deb [arch=amd64 signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list
+
+sudo apt-get update && sudo apt-get install cloudflare-warp
+
+
+
+
+sudo sysctl -w net.ipv4.ip_forward=1
+
+
+
+warp-cli connector new eyJhIjoiZDk0ODlkZGRhNWJlZTllMjJmMzJkN2M1NTkzYjhkZGMiLCJ0IjoiNWY2YTU3MmEtOGVlZi00MGVhLTkyNTktMjFlNGEzZDk2ODY5IiwicyI6InVoVWhkN0VTdGJ3cUd0TDRnR0lKOWtobWtCYW0xRWxpUlNPNTg2MWNrV0VmbWNkc2YvakNZNVp3Y1RwSDE4QzRDOVl0aU1DbURjYSs3ZlNiV0ZTS0R3PT0ifQ==
+warp-cli connect
